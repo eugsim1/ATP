@@ -1,0 +1,5 @@
+S,Direct Sales,Direct
+T,Tele Sales,Direct
+C,Catalog,Indirect
+I,Internet,Indirect
+P,Partners,Others
