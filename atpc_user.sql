@@ -48,8 +48,8 @@ end;
 begin
 	DBMS_CLOUD.create_credential (
 	credential_name => 'OBJ_STORE_CRED',
-	username => 'oracleidentitycloudservice/eugene.simos@oracle.com',
-	password => 'yYpfK-rx)s-c9p>oRYid'
+	username => 'your user name',
+	password => 'your password'
 	) ;
 end;
 /
